@@ -1,0 +1,19 @@
+
+https://www.figma.com/design/pQZt23XO6V2sw7S5XXRVc9/Comforty---eCommerce-Figma-Template-(Community)-(Community)?node-id=0-1&p=f&t=pgxAlGJs3WYP7lkd-0                                                               
+
+
+1920*15.64
+
+
+15.64*2=31.28 
+100-31.28=68.72
+      @media screen and (max-width: 400px) {
+}
+
+      @media screen and (max-width: 500px) {
+}
+       @media screen and (max-width: 600px) {
+}
+
+      @media screen and (max-width: 768px) {
+}
